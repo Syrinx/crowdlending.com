@@ -1,0 +1,9 @@
+.overlay{position:relative;}
+.fc-homepage-takeover-bg-gradient {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0) radial-gradient(ellipse at center top , rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)) repeat scroll 0 0;
+}
