@@ -1,5 +1,3 @@
-// TODO: Titles
-
 var express = require('express')
 var fs = require('fs')
 
@@ -19,4 +17,8 @@ var view = function(path) {
   return contents
 }
 
-var render = function(path) { return view('layout.html').replace('{{view}}', view(path)) }
+var render = function(path) {
+  return view('layout.html')
+  .replace('{{nav}}', view('/nav.html'))
+  .replace('{{view}}', view(path))
+}

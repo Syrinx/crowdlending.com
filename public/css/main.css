@@ -108,13 +108,24 @@ margin:5px auto;
 }
 .nav-pills{ display:table;}
 
-.navbar-nav > li > a
+.visible-xs-inline-block {
+  text-align: right;
+  float: right;
+}
+
+.navbar-nav > li > a, .nav-header
 {
 
     font-weight:bold;
    /* padding: 10px 25px;*/
   Padding:40px 25px 10px;
   Color: #337ab7;
+}
+
+.nav-link {
+  display: block;
+  padding: 3px 30px !important;
+  color: black;
 }
 
 .navbar-nav > li > a:hover
@@ -138,7 +149,7 @@ background-image: -ms-linear-gradient(top, #1B1B1B 0%, #595959 46%, #595959 50%,
  /*W3C Markup */
 /*background-image: linear-gradient(to bottom, #1B1B1B 0%, #595959 46%, #595959 50%, #595959 53%, #1B1B1B 100%);*/
 }
-.dropdown-menu > li > a{
+.dropdown-menu > li > a {
     padding: 3px 20px !important;
 }
 .btn-video
@@ -1205,4 +1216,14 @@ label.control-label.123
 .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
     background-color:transparent;
     border-color: #337ab7;
+}
+
+.overlay{position:relative;}
+.fc-homepage-takeover-bg-gradient {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0) radial-gradient(ellipse at center top , rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)) repeat scroll 0 0;
 }
