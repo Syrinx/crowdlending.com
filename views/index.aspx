@@ -17,10 +17,10 @@
           </div><br />
           <div class="row">
             <div class="col-md-4 col-sm-4">
-              <a class="btn-brd-white btn-video btn-block" href="registration/index.html">Investors: Open an account</a> <br /><br />
+              <a class="btn-brd-white btn-video btn-block" href="/Registration">Investors: Open an account</a> <br /><br />
             </div>
             <div class="col-md-4 col-sm-4">
-              <a class="btn-brd-white btn-video btn-block" href="RaiseCapital/index.html">Raising Capital? Apply now</a><br /><br />
+              <a class="btn-brd-white btn-video btn-block" href="/RaiseCapital">Raising Capital? Apply now</a><br /><br />
             </div>
             <div class="col-md-4 col-sm-4" style="display:none;">
               <button type="button" class="btn-brd-white btn-video btn-block" data-toggle="modal" data-target="#myModal" data-backdrop="static"><i class="fa fa-youtube-play"></i>    Play the  Video  Here</button>

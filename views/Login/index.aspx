@@ -54,7 +54,7 @@
                 <div class="row">
                   <div class="col-lg-8">
                     <b><a href="../ForgotPassword/index.html">Forgot password?</a></b> <br /><br />
-                    Don't have an account? <a href="../Registration/index.html"> Sign up here  </a>
+                    Don't have an account? <a href="/Registration"> Sign up here  </a>
                   </div>
                   <div class="col-lg-4 text-right">
                     <input type="submit" name="ctl00$ContentPlaceHolder1$btnSubmit" value="   LOGIN   " onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$btnSubmit&quot;, &quot;&quot;, true, &quot;login&quot;, &quot;&quot;, false, false))" id="ctl00_ContentPlaceHolder1_btnSubmit" class="btn-brd-danger btn-signup" />
