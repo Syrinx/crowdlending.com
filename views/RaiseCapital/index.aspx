@@ -282,7 +282,6 @@
               <div class="form-group" style="display:none;">
                 <label class="control-label">What asset class do you typically invest in?</label>
                 <select size="4" name="ctl00$ContentPlaceHolder1$lbclasses" multiple="multiple" id="ctl00_ContentPlaceHolder1_lbclasses" class="form-control select-form-control">
-                  <option value="Hotel">Hotel</option>
                   <option value="Multifamily">Multifamily</option>
                   <option value="Office(Class A)">Office(Class A)</option>
                   <option value="Retail">Retail</option>
@@ -381,11 +380,6 @@
                   <input id="ctl00_ContentPlaceHolder1_rbgrouplist_5" type="radio" name="ctl00$ContentPlaceHolder1$rbgrouplist" value="I want CrowdLending.com to join me as a partner and help manage the asset" />
                   <label for="ctl00_ContentPlaceHolder1_rbgrouplist_5">I want CrowdLending.com to join me as a partner and help manage the asset</label>
                 </span>
-                <span class="help-inline"></span>
-              </div>
-              <div class="form-group" style="display:none;">
-                <label class="control-label">If your asset is a hotel, what franchise?</label>
-                <input name="ctl00$ContentPlaceHolder1$txtassethotel" type="text" id="ctl00_ContentPlaceHolder1_txtassethotel" class="form-control" />
                 <span class="help-inline"></span>
               </div>
               <div class="form-group" style="display:none;">

@@ -11,7 +11,7 @@
           <div class="row" >
             <div class="col-md-12 ">
               <h1 id="ctl00_ContentPlaceHolder1_idsliderheader">CrowdLending.com</h1>
-              <p id="ctl00_ContentPlaceHolder1_idslidertext">CrowdLending.com gives a crowd of investors the opportunity to invest in hotels and other real-estate assets directly in your city and other established markets. Diversify your portfolio and maintain security on real-property.</p>
+              <p id="ctl00_ContentPlaceHolder1_idslidertext">CrowdLending.com gives a crowd of investors the opportunity to invest in real-estate assets directly in your city and other established markets. Diversify your portfolio and maintain security on real-property.</p>
               <div class="clearfix"></div>
             </div>
           </div><br />
