@@ -1,110 +1,74 @@
-/*
- * Author: Pradeep
- * URL: http://www.yiit.net.in
- *
- * Project Name: Syncpro.co
- * Version: 1.0
- * URL: http://Syncpro.co
- */
-
-/* FONTS */
 @import url(https://fonts.googleapis.com/css?family=Lato:300,400,700,900);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700,900);
 
-/* OVERALL ASPECT */
-
 body {
-  	background-color: #555;
-    font-family: "Lato";
-    font-weight: 300;
-	 color: #555;
-    -webkit-font-smoothing: antialiased;
-    -webkit-overflow-scrolling: touch;
-    min-width:300px;
+	background-color: #444;
+  font-family: "Lato";
+  font-weight: 300;
+  color: #555;
+  -webkit-font-smoothing: antialiased;
+  -webkit-overflow-scrolling: touch;
+  min-width:300px;
 }
 
-/* Titles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Raleway";
-    font-weight: 300;
-    color: #333;
+  font-family: "Raleway";
+  font-weight: 300;
+  color: #333;
 }
 
+p { line-height: 28px; }
 
-/* Paragraph & Typographic */
-p {
-    line-height: 28px;
+.centered { text-align: center; }
 
-}
-
-.centered {
-    text-align: center;
-}
-
-/* Links */
 a {
-    color: #FF751A;
-    word-wrap: break-word;
-    -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
-    -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
-    -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
-    -o-transition: color 0.1s ease-in, background 0.1s ease-in;
-    transition: color 0.1s ease-in, background 0.1s ease-in;
+  color: #FF751A;
+  word-wrap: break-word;
+  -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
+  -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
+  -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
+  -o-transition: color 0.1s ease-in, background 0.1s ease-in;
+  transition: color 0.1s ease-in, background 0.1s ease-in;
 }
 
-a:hover,
-a:focus {
-    color: #7b7b7b;
-    text-decoration: none;
-    outline: 0;
+a:hover, a:focus {
+  color: #7b7b7b;
+  text-decoration: none;
+  outline: 0;
 }
 
-a:before,
-a:after {
-    -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
-    -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
-    -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
-    -o-transition: color 0.1s ease-in, background 0.1s ease-in;
-    transition: color 0.1s ease-in, background 0.1s ease-in;
+a:before, a:after {
+  -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
+  -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
+  -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
+  -o-transition: color 0.1s ease-in, background 0.1s ease-in;
+  transition: color 0.1s ease-in, background 0.1s ease-in;
 }
 
  hr {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #ccc;
-    margin: 1em 0;
-    padding: 0;
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
 }
 
-
-/* Sticky footer styles
--------------------------------------------------- */
-
-html,
-body {
-  height: 100%;
-  /* The html and body elements cannot have any padding or margin. */
-}
+html, body { height: 100%; }
 
 
 /* Custom page CSS
 -------------------------------------------------- */
-.header-logo
-{
-    height: 75px;
-    width: 250px;
-margin:5px auto;
+.header-logo {
+  width: 275px;
+  margin:5px auto;
 }
-.navbar-brand
-{
-    padding:0px;
-}
-.navbar
-{
+
+.navbar-brand { padding:0px; }
+
+.navbar {
   border-bottom: 1px solid #f1f1f1;
   background:#fff;
-
 }
 .nav-pills{ display:table;}
 
@@ -113,48 +77,22 @@ margin:5px auto;
   float: right;
 }
 
-.navbar-nav > li > a, .nav-header
-{
-
-    font-weight:bold;
-   /* padding: 10px 25px;*/
-  Padding:40px 25px 10px;
-  Color: #337ab7;
+.navbar-nav > li > a, .nav-header {
+  font-weight:bold;
+  color: #337ab7;
+  padding: 29px;
 }
 
-.nav-link {
-  display: block;
-  padding: 3px 30px !important;
-  color: black;
+.navbar-nav > li > a {
+  padding: 29px;
 }
 
-.navbar-nav > li > a:hover
-{
-/*background:#1B1B1B ;
- IE10+
-background-image: -ms-linear-gradient(top, #1B1B1B 0%, #595959 46%, #595959 50%, #595959 53%, #1B1B1B 100%);
-
-/* Mozilla Firefox */
-/*background-image: -moz-linear-gradient(top, #1B1B1B 0%, #595959 46%, #595959 50%, #595959 53%, #1B1B1B 100%);
-
-/* Opera */
-/*background-image: -o-linear-gradient(top, #1B1B1B 0%, #595959 46%, #595959 50%, #595959 53%, #1B1B1B 100%);
-
- /*Webkit (Safari/Chrome 10) */
-/*background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #1B1B1B), color-stop(46, #595959), color-stop(50, #595959), color-stop(53, #595959), color-stop(100, #1B1B1B));
-
-/* Webkit (Chrome 11+) */
-/*background-image: -webkit-linear-gradient(top, #1B1B1B 0%, #595959 46%, #595959 50%, #595959 53%, #1B1B1B 100%);*/
-
- /*W3C Markup */
-/*background-image: linear-gradient(to bottom, #1B1B1B 0%, #595959 46%, #595959 50%, #595959 53%, #1B1B1B 100%);*/
-}
 .dropdown-menu > li > a {
     padding: 3px 20px !important;
 }
-.btn-video
-{
-
+.btn-video {
+  background-color: white;
+  color: #3f5263;
 }
 
 .btn-signup
@@ -230,16 +168,16 @@ padding-top:13px !important;
 }*/
 
 
-.overlay-data h1
-{
+.overlay-data h1 {
     font-size:40px;
     color:#ff751a;
     font-weight:bold;
+    text-align: center;
 }
 
-.overlay-data p
-{
-    font-size:18px;
+.overlay-data p {
+  font-size:18px;
+  text-align: center;
 	font-weight: bold;
 }
 
@@ -302,42 +240,7 @@ video.fillWidth {
   padding: 230px 0px 250px;
 }
 
-.jumbotron
-{
-    margin-bottom:0px;
-}
-
-.footer, .footer a {
-	color:#394046;
-}
-.footer p span {
-	color:#394046 !important;
-font-family: "Lato" !important;
-font-size:14px	!important;
- line-height: 20px;
-}
-.footer h3{
-	color:#394046;
-}
-.footer-copyright{
-	padding:10px 0px;
-}
-.footer-copyright .small {
-	line-height:16px;
-	padding-bottom:5px;
-	border-bottom:1px solid #8693a7;
-
-}
-
-.social-footer {
-	margin-top:5px;
-	margin-bottom:0px;
-}
-
-.footer-copyright  a{
-	color:#8693a7;
-}
-
+.jumbotron { margin-bottom:0px; }
 
 .highlight {
     margin-top: 20px;
