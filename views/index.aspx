@@ -4,18 +4,12 @@
       <div class="col-lg-2"></div>
       <div class="col-lg-8">
         <p>
-          CrowdLending.com gives a <strong><em>crowd of investors</em></strong><br />
-          the opportunity to invest in real-estate assets.
+          Crowd Lending is simply the best<br />real-estate-backed investment opportunity<br />in the Northeast.
         </p>
       </div>
-      <div class="col-lg-3"></div>
-      <div class="col-lg-3" style="">
-        <a class="btn" href="/Registration">Investors: Open an account</a>
+      <div class="col-lg-12" style="text-align: center">
+        <a class="btn" href="http://crowdlending.assembleup.com/sign_up">Get Started</a>
       </div>
-      <div class="col-lg-3" style="">
-        <a class="btn" href="/RaiseCapital">Raising Capital? Apply now</a>
-      </div>
-      <div class="col-lg-3"></div>
     </div>
   </div>
 </div>
