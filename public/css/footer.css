@@ -40,7 +40,7 @@
 #footer {
   border-top: 3px solid #f7f8f9;
   color: #ddd;
-  /*background-color: #eee;*/
+  background-color: #444;
   padding: 1em;
 }
 
@@ -57,7 +57,7 @@
   font-weight: bold;
 }
 
-/*#subfooter { padding-top: 1em; }*/
+#subfooter { background-color: #444; }
 
 #subfooter p {
   font-size: 0.9em;

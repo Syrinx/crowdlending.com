@@ -16,37 +16,57 @@
 <div class="jumbotron top-space">
   <div class="container">
     <div class="row">
+      <div class="col-lg-12">
+        <ul>
+          <li>Strong investor base</li>
+          <li>Experienced borrowers</li>
+          <li>Strong loan-to-value (LTV) on all loans</li>
+          <li>Rigorous underwriting</li>
+          <li>Consistent rate of return</li>
+          <li>Real-time, on-demand transactions and investment reporting with best-in-class technology solutions</li>
+        </ul>
+      </div>
+    </div>
+    <div class="row">
       <div class="col-md-4 col-sm-4 highlight">
         <div class="h-caption" align="center">
           <img src="img/left_201508190839_201511061037_201601270339.png" class="img-circle" alt="Generic placeholder image" />
         </div>
-        <div class="h-body text-center">
-          <h3><b><span id="ctl00_ContentPlaceHolder1_lbltilteLowPlatformFees">Who We Are</span> </b></h3>
-          <p>CrowdLending.com provides investors with a safe, secure real estate backed investment vehicle and provides
-            borrowers with a hassle free, affordable alternative to institutional lending. CrowdLending.com bridges the
-            gap between investors who want to invest in real estate and borrowers who need capital for their next project.</p>
+        <div class="h-body">
+          <ul>
+            <li>Fund model</li>
+            <li>Multiple investors</li>
+            <li>Institutional investors</li>
+            <li>Multiple projects</li>
+          </ul>
         </div>
       </div>
       <div class="col-md-4 col-sm-4 highlight">
         <div class="h-caption" align="center">
           <img src="img/mid_201508190840_201601270341.png" class="img-circle" alt="Generic placeholder image" />
         </div>
-        <div class="h-body text-center">
-          <h3><b> <span id="ctl00_ContentPlaceHolder1_lbltilteTransparency">Our Mission</span> </b></h3>
-          <p>CrowdLending.com makes financing commercial real estate transactions easier for the borrower and secures
-            solid returns for the investor. Using cutting edge technology CrowdLending.com provides a transparent
-            lending platform that successfully connects lenders and borrowers.</p>
+        <div class="h-body">
+          <ul>
+            <li>Targeted 8% returns</li>
+            <li>No management fees</li>
+            <li>12-month commitments</li>
+          </ul>
         </div>
       </div>
       <div class="col-md-4 col-sm-4 highlight">
         <div class="h-caption" align="center">
           <img src="img/right_201508190840_201511061037_201601270339.png" class="img-circle" alt="Generic placeholder image" />
         </div>
-        <div class="h-body text-center">
-          <h3><b> <span id="ctl00_ContentPlaceHolder1_lbltilteExclusiveOfferings">Our Members</span></b> </h3>
-          <p>CrowdLending.com appeals to a broad spectrum of business men and women in the commercial real estate
-            market. Whether you are an investor, lender, developer or home builder, CrowdLending.com has a product
-            that will work for you.</p>
+        <div class="h-body">
+          <ul>
+            <li>Focused in strong real estate market</li>
+            <li>Rigorous underwriting process</li>
+            <li>Experienced, vetted borrowers</li>
+            <li>Secured, first-lien mortgage position</li>
+            <li>Investors receive first 8% on loans</li>
+            <li>Investors’ returns preferred over company returns</li>
+            <li>Low loan-to-value (LTV) ratios</li>
+          </ul>
         </div>
       </div>
     </div>

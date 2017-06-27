@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700,900);
 
 body {
-	background-color: #444;
+	background-color: #fff;
   font-family: "Lato";
   font-weight: 300;
   color: #555;
@@ -1129,4 +1129,11 @@ label.control-label.123
   right: 0;
   top: 0;
   background: rgba(0, 0, 0, 0) radial-gradient(ellipse at center top , rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)) repeat scroll 0 0;
+}
+
+img.profile {
+  width: 100px;
+  float: left;
+  margin-right: 3em;
+  margin-top: .5em;
 }
