@@ -436,7 +436,7 @@
                 <span class="help-inline"></span>
               </div>
               <div class="form-group">
-                <input type="submit" name="ctl00$ContentPlaceHolder1$btnSubmit" value="Submit" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$btnSubmit&quot;, &quot;&quot;, true, &quot;ContactUs&quot;, &quot;&quot;, false, false))" id="ctl00_ContentPlaceHolder1_btnSubmit" class="btn-brd-danger pull-right" />
+                <input type="submit" value="SUBMIT" class="btn" style="color: white; background-color: #333; width: 100%; border-radius: 0; font-weight: 200; line-height: 3em;" />
               </div>
             </div>
           </div>

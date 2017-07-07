@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300,400,700,900);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700,900);
+@import url(https://fonts.googleapis.com/css?family=Courgette);
 
 body {
 	background-color: #fff;
@@ -1132,8 +1133,37 @@ label.control-label.123
 }
 
 img.profile {
-  width: 100px;
+  width: 150px;
   float: left;
   margin-right: 3em;
   margin-top: .5em;
+  border-radius: 3px;
+}
+
+h3.big {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+p.big {
+  font-size: 2em;
+  line-height: 1.5em;
+}
+
+p.medium {
+  font-size: 1.33em;
+}
+
+ul.big {
+  padding-top: .5em;
+  font-size: 1.5em;
+}
+
+ul.medium {
+  padding-top: .5em;
+  font-size: 1.33em;
+}
+
+.quote {
+  font-family: "Courgette";
 }
