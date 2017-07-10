@@ -38,7 +38,7 @@
         <div class="col-lg-1"></div>
         <div class="col-lg-10">
           <br />
-          <h3 class="big">Daniel J. Najarian, Partner and CEO</h3>
+          <h3 class="big">Daniel J. Najarian, CEO and Co-Founder</h3>
           <img src="/img/Dan.jpg" class="profile" style="float: right; margin-left: 3em;" />
           <ul class="big">
             <li>Owns and operates a real estate law firm and development company, with a history of closing 800 profitable real estate transactions.</li>
