@@ -13,7 +13,7 @@
       <div class="row">
         <div class="col-lg-4"><br /><br /><img src="/img/howitworks.png" /></div>
         <div class="col-lg-8">
-          <p class="big">We all know that investing involves risks and returns. But how do you strike the right balance and mitigate risk, whilst maximizing returns? You need a team of experts – people who have access to good development projects in a strong market, with decades of experience in real estate, who invest in the projects themselves, bring in institutional investors and a crowd of investors across each fund and across multiple projects.</p>
+          <p class="big">We all know that investing in real estate involves risks. But how do you strike the right balance between mitigate risk and maximizing returns? You need a team of experts with decades of experience in real estate to vet each project and each borrower to insure a sound, solid investment that will generate consistent returns.</p>
         </div>
       </div>
       <div class="row">
@@ -24,16 +24,16 @@
         </div>
       </div>
       <div class="row" style="background-color: #f7f8f9; padding: 1em; color: black;">
-        <div class="col-lg-3"><p class="medium">Borrowers are highly vetted and must have equity in the property.</p></div>
-        <div class="col-lg-3"><p class="medium">We secure the loans with select property developments that can generate resaid returns. Minimum LTV is 80%.</p></div>
-        <div class="col-lg-3"><p class="medium">Assets must have strong appraised value as established by third parties...</p></div>
-        <div class="col-lg-3"><p class="medium">Quick closings, competitive rates, flexible borrowing. The quicker borrowers get cash, the more quickly projects can deliver results.</p></div>
+        <div class="col-lg-3"><p class="medium">Borrowers are highly vetted and have their own "skin in the game".</p></div>
+        <div class="col-lg-3"><p class="medium">Loans are secured by select properties and string load to value ratios.</p></div>
+        <div class="col-lg-3"><p class="medium">Short hold terms and solid consistent returns make Crowd Lending attractive to savvy investors.</p></div>
+        <div class="col-lg-3"><p class="medium">Quick closings, competitive rates and flexible terms make Crowd Lending attractive to seasoned borrowers.</p></div>
       </div>
       <div class="row">
         <div class="col-lg-12">
           <br /><br />
-          <p class="medium">Our process allows us to identify and originate high quality loans across multiple projects for a diversified portfolio. Then we attract and pool investors seeking stronger returns than what they can achieve individually. We combine the investments and spread them across multiple projects. It’s simple. You invest, Crowd Lending handles the rest.</p>
-          <p class="medium">Not to mention, our secure web-based platform is easy and engaging to use. You can track your results daily in real-time and view reports anytime. You invest with full transparency and visibility.</p>
+          <p class="medium">Our underwriting process identifies high quality loans in the strongest markets giving our pool of investors an opportunity to achieve passive returns in real estate. It’s simple. You invest, Crowd Lending handles the rest.</p>
+          <p class="medium">Our secure web-based platform is easy to use. Our website allows you to track your investment and offers full transparency.</p>
         </div>
       </div>
     </div>
