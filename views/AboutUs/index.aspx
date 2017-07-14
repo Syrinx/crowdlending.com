@@ -26,7 +26,7 @@
           <ul class="big">
             <li>Owns and operates a real estate development and investment firm with a track record of success for the last twenty years</li>
             <li>Certified Fund Manager – AAPL</li>
-            <li>BS - London’s Richmond College, American International University.</li>
+            <li>B.A., London’s Richmond College, American International University.</li>
             <li>Responsibilities to include securing investors and creditable borrowers.</li>
             <li>Owns and operates a portfolio of rental properties</li>
           </ul>
@@ -43,7 +43,8 @@
           <ul class="big">
             <li>Owns and operates a real estate law firm and development company, with a history of closing 800 profitable real estate transactions.</li>
             <li>Certified Fund Manager – AAPL</li>
-            <li>BS, Boston College; J.D., Suffolk University</li>
+            <li>B.S., Boston College</li>
+            <li>J.D., Suffolk University</li>
             <li>Responsibilities include vetting investors and lending opportunities, legal and financial operations, and company growth strategy</li>
           </ul>
         </div>
