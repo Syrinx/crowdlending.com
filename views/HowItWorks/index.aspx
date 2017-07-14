@@ -1,4 +1,4 @@
-<section class="maincontent">
+<section class="maincontent" style="margin-bottom: -3em;">
   <div class="inner-page-heading">
     <div class="container">
       <div class="row centered">
