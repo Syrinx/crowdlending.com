@@ -150,7 +150,7 @@
             </div>
             <div id="citem_28" class="panel-collapse collapse">
               <div class="panel-body">
-                Our investment minimums begin at $1,000 USD per share. Please be aware that CrowdLending.com reserves
+                Our investment minimums begin at $50,000 USD per share. Please be aware that CrowdLending.com reserves
                 the right to alter this at any time. There is no maximum investment amount with CrowdLending.com.
               </div>
             </div>
@@ -279,9 +279,7 @@
             <div id="citem_48" class="panel-collapse collapse">
               <div class="panel-body">
                 Each investment offered by CrowdLending.com is managed by a CrowdLending.com-controlled LLC who acts
-                as the “Managing Member.” This individual has sole and exclusive rights for the management, control
-                and performance of the affairs of the LLC. These rights include, but are not limited to, fund
-                distribution to investors, decisions regarding sale and leasing, operational decisions and reporting.
+                as the “Managing Member.”
               </div>
             </div>
           </div>
@@ -296,10 +294,8 @@
             <div id="citem_74" class="panel-collapse collapse">
               <div class="panel-body">
                 Each asset is the responsibility of an experienced asset Borrower with the background needed
-                experience to operate the asset at its peak and provide solutions. The Borrowers  are expert in the
-                appropriate asset class, from apartment building to industrial  facility. In addition, the
-                opportunity to review the Borrower’s past investment experience and background prior to the
-                investment will be made available to you.
+                experience to operate the asset at its peak and provide solutions. The Borrowers  are experts in the
+                appropriate asset class, from apartment building to industrial facility.
               </div>
             </div>
           </div>
@@ -373,7 +369,7 @@
                 investor as defined by the Securities and Exchange Commission. Once that occurs we will coordinate
                 the submission of your investment and accept payment via check or money order. Your money will then
                 be used to issue loans to qualified borrowers with qualified projects. While all investments are
-                difference the standard investment will be for a period of one year with quarterly interest only
+                different the standard investment will be for a period of one year with quarterly interest only
                 payments.
               </div>
             </div>
