@@ -27,7 +27,7 @@
 
         <p style="font-size:16px;">
           OUR POLICY<br />
-          Welcome to the web site www.CrowdLending .co (the &ldquo;Site&rdquo;) owned and operated by CrowdLending LLC
+          Welcome to the web site www.CrowdLending .co (the &ldquo;Site&rdquo;) owned and operated by Crowd Lending, Inc.
           (Henceforward &ldquo;CrowdLending,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; and/or &ldquo;our&rdquo;).
           This Site has been created to provide information about our company and its services
           (the &ldquo;Services&rdquo;) to our users (&ldquo;you,&rdquo; &ldquo;your&rdquo;). This Privacy Policy sets

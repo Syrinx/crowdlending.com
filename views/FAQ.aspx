@@ -50,7 +50,7 @@
             </div>
             <div id="citem_55" class="panel-collapse collapse">
               <div class="panel-body">
-                CrowdLending.com investments are units of a limited liability company (LLC). Each property offered
+                Crowd Lending, Inc. investments are units of a limited liability company (LLC). Each property offered
                 includes a single purpose, bankruptcy remote entity formed solely for the ownership and operation of
                 that asset. LLCs are often the ideal method for real estate ownership since they bring investors the
                 advantage of limited financial exposure. They also offer pass through taxation status and are
@@ -166,8 +166,8 @@
             <div id="citem_61" class="panel-collapse collapse">
               <div class="panel-body">
                 <p>
-                  CrowdLending.com differs extensively from a Real Estate Investment Trust (REIT). With
-                  CrowdLending.com you own units of an LLC solely devoted to the ownership and operation of one asset.
+                  Crowd Lending, Inc. differs extensively from a Real Estate Investment Trust (REIT). With
+                  Crowd Lending you own units of an LLC solely devoted to the ownership and operation of one asset.
                 </p>
                 <p>
                   REIT shares are not the equivalent of physical ownership of real estate. They function in a fashion

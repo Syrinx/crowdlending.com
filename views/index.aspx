@@ -8,7 +8,7 @@
         </p>
       </div>
       <div class="col-lg-12" style="text-align: center">
-        <a class="btn" href="http://crowdlending.assembleup.com/sign_up">GET STARTED</a>
+        <a class="btn" href="http://invest.crowdlending.com/sign_up">GET STARTED</a>
       </div>
     </div>
   </div>
