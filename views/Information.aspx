@@ -16,7 +16,7 @@
           <p>
             CrowdLending,com provides extremely competitive rates in today's commercial real estate market. Very
             simply, the more equity the borrower puts in the deal the better interest rate they will obtain. Below is
-            the sliding scale of interest rates available to borrowers. Crowdlending.com gives borrowers confidence the
+            the sliding scale of interest rates available to borrowers. Crowd Lending, Inc. gives borrowers confidence the
             funds needed will be available in no more than 30 days.
           </p>
           <h3>Borrowers Rates</h3>

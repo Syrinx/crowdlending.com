@@ -367,8 +367,8 @@
               <div class="form-group" style="display:none;">
                 <label class="control-label">What kind of transaction are you currently seeking funding for?</label><br />
                 <span id="ctl00_ContentPlaceHolder1_rbgrouplist" class="radio">
-                  <input id="ctl00_ContentPlaceHolder1_rbgrouplist_0" type="radio" name="ctl00$ContentPlaceHolder1$rbgrouplist" value="I want CrowdLending.com to liquidate my assets but I want to keep management" />
-                  <label for="ctl00_ContentPlaceHolder1_rbgrouplist_0">I want CrowdLending.com to liquidate my assets but I want to keep management</label><br />
+                  <input id="ctl00_ContentPlaceHolder1_rbgrouplist_0" type="radio" name="ctl00$ContentPlaceHolder1$rbgrouplist" value="I want Crowd Lending, Inc. to liquidate my assets but I want to keep management" />
+                  <label for="ctl00_ContentPlaceHolder1_rbgrouplist_0">I want Crowd Lending, Inc. to liquidate my assets but I want to keep management</label><br />
                   <input id="ctl00_ContentPlaceHolder1_rbgrouplist_1" type="radio" name="ctl00$ContentPlaceHolder1$rbgrouplist" value="I want to raise capital to help acquire a new Asset" />
                   <label for="ctl00_ContentPlaceHolder1_rbgrouplist_1">I want to raise capital to help acquire a new Asset</label><br />
                   <input id="ctl00_ContentPlaceHolder1_rbgrouplist_2" type="radio" name="ctl00$ContentPlaceHolder1$rbgrouplist" value="I want to raise capital to help develop a new-construction asset" />
@@ -377,8 +377,8 @@
                   <label for="ctl00_ContentPlaceHolder1_rbgrouplist_3">I want to refinance my existing debt</label><br />
                   <input id="ctl00_ContentPlaceHolder1_rbgrouplist_4" type="radio" name="ctl00$ContentPlaceHolder1$rbgrouplist" value="I want to raise capital for Improvements, Renovations, New FF&amp;E, and Rebranding my Assets." />
                   <label for="ctl00_ContentPlaceHolder1_rbgrouplist_4">I want to raise capital for Improvements, Renovations, New FF&E, and Rebranding my Assets.</label><br />
-                  <input id="ctl00_ContentPlaceHolder1_rbgrouplist_5" type="radio" name="ctl00$ContentPlaceHolder1$rbgrouplist" value="I want CrowdLending.com to join me as a partner and help manage the asset" />
-                  <label for="ctl00_ContentPlaceHolder1_rbgrouplist_5">I want CrowdLending.com to join me as a partner and help manage the asset</label>
+                  <input id="ctl00_ContentPlaceHolder1_rbgrouplist_5" type="radio" name="ctl00$ContentPlaceHolder1$rbgrouplist" value="I want Crowd Lending, Inc. to join me as a partner and help manage the asset" />
+                  <label for="ctl00_ContentPlaceHolder1_rbgrouplist_5">I want Crowd Lending, Inc..com to join me as a partner and help manage the asset</label>
                 </span>
                 <span class="help-inline"></span>
               </div>

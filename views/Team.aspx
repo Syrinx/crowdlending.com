@@ -32,7 +32,7 @@
             Co-founder Christopher Fiumara is a successful real estate investor and developer. Chris attended college in
             London at Richmond University the American International College and has been an active real estate investor
             and developer for over twenty years. Chris&#39; experience gives him the foresight to see the big picture of
-            the real estate world and to guide Crowdlending.com through the real estate market. His focus is on
+            the real estate world and to guide Crowd Lending, Inc. through the real estate market. His focus is on
             recruiting investors and securing creditable borrowers.
           </p>
         </div>
@@ -45,7 +45,7 @@
           <h3>Daniel J. Najarian, Partner and CEO</h3>
           <img src="/img/Dan.jpg" class="profile" />
           <p>
-            Daniel Najarian is the CEO and Co-Founder of Crowd Lending Inc. He is responsible for handling the day to day
+            Daniel Najarian is the CEO and Co-Founder of Crowd Lending, Inc. He is responsible for handling the day to day
             operations of the company including the vetting of both investors and lending opportunities. Dan graduated
             from Boston College in 1998 and Suffolk University Law School in 2001. In 2009 he opened Najarian &amp;
             Associates, LLC and since that time he has been involved in over 800 real estate transactions. Dan is also a

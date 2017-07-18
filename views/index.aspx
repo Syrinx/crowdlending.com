@@ -4,7 +4,7 @@
       <div class="col-lg-2"></div>
       <div class="col-lg-8">
         <p>
-          Crowdlending.com is simply the best<br />real-estate-backed investment opportunity.
+          Crowd Lending is simply the best<br />real-estate-backed investment opportunity.
         </p>
       </div>
       <div class="col-lg-12" style="text-align: center">
