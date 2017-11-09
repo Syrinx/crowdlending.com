@@ -30,6 +30,7 @@
           <hr>
           <div role="loginform">
             <form method="post" action="https://formspree.io/info@crowdlending.com">
+              <input type="hidden" name="_cc" value="Victoria@crowdlending.com" />
               <div class="form-body">
                 <div class="form-group">
                   <label>Username/Email <span class="text-danger">*</span></label>

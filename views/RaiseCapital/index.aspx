@@ -11,6 +11,7 @@
     </div>
     <div class="content">
       <form method="post" action="https://formspree.io/info@crowdlending.com">
+        <input type="hidden" name="_cc" value="Victoria@crowdlending.com" />
         <div class="container">
           <div class="col-md-12 mt50">
             <div class="col-md-8 col-md-offset-2">
